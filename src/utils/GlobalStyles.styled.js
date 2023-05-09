@@ -10,7 +10,7 @@ ${normalize()}
   font-family: ${primaryFont};
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: black;
+  background-color: dimgray;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
