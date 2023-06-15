@@ -15,18 +15,18 @@ const Skills = () => {
   const skills = [
     "JavaScript",
     "TypeScript",
-    "Node",
-    "Express",
+    "Node.js",
+    "Express.js",
     "C#",
     ".Net",
     "Python",
     "Django",
-    "ReactJs",
+    "React.js",
     "Redux",
     "HTML",
     "CSS",
-    "ThreeJs",
-    "VueJs",
+    "Three.js",
+    "Vue.js",
     "Angular",
   ];
   const g = useRef();

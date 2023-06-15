@@ -21,7 +21,7 @@ export const projects = [
     title: "Tophap",
     description: "A real estate market intelligence web application",
     image: TopHap,
-    link: "https://github.com/teshank2137/stockprediction",
+    link: "https://tophap.com",
   },
   {
     title: "Alteon",
